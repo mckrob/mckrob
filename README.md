@@ -1,5 +1,7 @@
 ## Hi there 👋
 😉
+![image](https://github.com/user-attachments/assets/5fbfc7cb-2683-4e53-86f7-c40a2fd480c0)
+
 <!--
 **mckrob/mckrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
